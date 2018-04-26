@@ -1,0 +1,5 @@
+Good example of:
+First in, Last out stack method
+Comparing string 
+Out of bound exception handler(probably need to use this more)
+How to handle exceptions
